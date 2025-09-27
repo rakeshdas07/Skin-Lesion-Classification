@@ -11,19 +11,24 @@ So far, I have tried the following models:
 
 ## 📊 Results
 
-Here are the results for the models I tried (two screenshots per model showing training/validation curves and metrics):
+Here are the results for the models I tried :
 
 ### ConvNeXt-L
-![ConvNeXt-L Accuracy](images/convnext_l_acc.png)  
-![ConvNeXt-L Loss](images/convnext_l_loss.png)
+![ConvNeXt-L Accuracy Graph](Results/ConvNextL_AccuracyGraph.png)  
+![ConvNeXt-L Test Classification Report](Results/ConvNextL_TestClassificationReport.png)
+![ConvNeXt-L Confusion Matrix](Results/ConvNextL_TestConfusionMatrix.png)
+
 
 ### EfficientNetV2-L
-![EfficientNetV2-L Accuracy](images/efficientnetv2_l_acc.png)  
-![EfficientNetV2-L Loss](images/efficientnetv2_l_loss.png)
+![EfficientNetV2-L Accuracy Graph](Results/EffiV2L_AccuracyGraph.png)  
+![EfficientNetV2-L Test Classification Report](Results/EffiV2L_TestClassificationReport.png)
+![EfficientNetV2-L Confusion Matrix](Results/EffiV2L_TestConfusionMatrix.png)
 
 ### Vanilla CNN
-![Vanilla CNN Accuracy](images/vanilla_cnn_acc.png)  
-![Vanilla CNN Loss](images/vanilla_cnn_loss.png)
+![Vanilla CNN Accuracy Graph](Results/VanillaCNN_AccuracyGraph.png)  
+![Vanilla CNN Loss Graph](Results/VanillaCNN_LossGraph.png)
+![Vanilla CNN Classification Report](Results/VanillaCNN_ClassificationReport.png)
+
 
 ---
 
